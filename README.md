@@ -6,7 +6,7 @@
     </head>
 
     <body>
-        <img src="ingressos.jpg";  width="" height="200"> 
+        <img src="ingressos.jpg"  width="" height="200"> 
         <img src="pesquisa.jpg";   width="" height="200">
         <img src="entrar.jpg";     width=""    height="200"> </body><br>
 
